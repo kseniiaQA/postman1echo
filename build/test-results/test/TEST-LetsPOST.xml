@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LetsPOST" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-30T09:55:54" hostname="DESKTOP-H6MRP86" time="4.993">
+  <properties/>
+  <testcase name="shouldPostIt()" classname="LetsPOST" time="4.993"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
